@@ -1,0 +1,16 @@
+{
+  "name": "gas-finder",
+  "version": "1.0.0",
+  "description": "App to find the cheaper gas station in Chile by scraping a public database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Plaza",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.22.1",
+    "nightmare": "^3.0.1"
+  }
+}
